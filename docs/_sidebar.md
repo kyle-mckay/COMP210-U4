@@ -3,7 +3,6 @@
 
 **Virus Hoaxes**
 - [How To Identify a Virus Hoax](/how-to-hoax.md)
-- [Examples of Virus Hoaxes](/example-hoax.md)
 - [Getting Help](/get-help-hoax.md)
 
 **Ransomware**

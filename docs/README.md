@@ -17,28 +17,10 @@ In most instances, a virous hoax is of no real threat to the user or their syste
 <details>
 <summary>References</summary>
 
-1. [Virus Hoaxes (PC Mag)](https://www.pcmag.com/encyclopedia/term/virus-hoaxes) - Paragraph 1, Sentence 1
-1. [Virus Hoaxes (PC Mag)](https://www.pcmag.com/encyclopedia/term/virus-hoaxes) - Paragraph 2, Sentence 1-2
-1. [Characteristics of Viruses and Virus Hoaxes (SMU)](https://www.smu.edu/oit/infosec/resources/virus)
+1. [Virus Hoaxes (PC Mag)](https://www.pcmag.com/encyclopedia/term/virus-hoaxes) - *Paragraph 1, Sentence 1*
+1. [Virus Hoaxes (PC Mag)](https://www.pcmag.com/encyclopedia/term/virus-hoaxes) - *Paragraph 2, Sentence 1-2*
+1. [Characteristics of Viruses and Virus Hoaxes (SMU)](https://www.smu.edu/oit/infosec/resources/virus) - *Paragraph 2, Sentence 3*
 
 </details><br>
 
-Want to find out more?
-
-- [How To Identify a Virus Hoax](/how-to-hoax.md)
-- [Examples of Virus Hoaxes](/example-hoax.md)
-- [Getting Help](/get-help-hoax.md)
-
-## What are Ransomware Scams?
-
-<details>
-<summary>References</summary>
-
-1. 
-</details><br>
-
-Want to find out more?
-
-- [How To Identify a Ransomware Scam](/how-to-ransom.md)
-- [Examples of Ransomware Scams](/example-ransom.md)
-- [Getting Help](/get-help-ransom.md)
+So [How To Identify a Virus Hoax](/how-to-hoax.md)?
