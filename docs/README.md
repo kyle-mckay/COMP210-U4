@@ -1,15 +1,23 @@
 # COMP210 Project 4 - Virus Hoaxes and Scams
+
 <details>
 <summary>Intro to this project</summary>
 
-Hello, welcome to this page! The main page acts as a method of navigation, as well as another way to overview the project requirements. As you can see, I opted to do the multi-page website instead of power points. This submission is built using [GitHub Pages](https://pages.github.com/)!
+Hello, welcome to this page! The main page acts as a method of navigation, as well as another way to overview the project requirements. As you can see, I opted to do the multi-page website instead of power points. This submission is built using [GitHub Pages](https://pages.github.com/)! In order to view this submission properly, ensure you are accessing it via the [submitted link](https://kyle-mckay.github.io/COMP210-U4/) to GitHub pages. 
 
-In order to view this submission properly, ensure you are accessing it via the [submitted link](https://kyle-mckay.github.io/COMP210-U4/) to GitHub pages. If you would like to view the reports, you can select one of the links in the sidebar, or check out the requirements in the [About](/desc.md) page.
+This main page will give you some basic info and point you around. Alternatively, please feel free to use the side bar. You can also review the project requirements in the [About](/desc.md) page.
 </details>
 
 ## What are Virus Hoaxes?
 
-Virus Hoaxes are **Phony virus warnings** delivered via email <sup>[1]</sup> designed to either upset <sup>[1]</sup> people or convince pepole they need to take action such as deleting crucial operating system files <sup>[2]</sup>. In most instances, a virous hoax is of no real threat to the user or their system if either unactioned or ignored. That said, while they are annoyances, this oversaturation of false warnings may lead to users routinely ignoring all virus warnings they see, potentially including **genuine threats** <sup>[3]</sup>.
+<table>
+  <tr>
+  <td width=200px><img style='padding-right: 15px;' src="https://www.easytechjunkie.com/ezoimgfmt/images.easytechjunkie.com/slideshow-mobile-small/virus-alert-on-a-computer-screen.jpg?ezimgfmt=ng:webp/ngcb1" alt="A virus hoax falsely warns against a nonexistent computer virus." alligh="right"  width="200" /></td>
+  <td>
+  <p>Virus Hoaxes are **Phony virus warnings** delivered via email <sup>[1]</sup> designed to either upset <sup>[1]</sup> people or convince pepole they need to take action such as deleting crucial operating system files <sup>[2]</sup>. </p>
+  <p>In most instances, a virous hoax is of no real threat to the user or their system if either unactioned or ignored. That said, while they are annoyances, this oversaturation of false warnings may lead to users routinely ignoring all virus warnings they see, potentially including **genuine threats** <sup>[3]</sup>.</p>
+  </td></tr>
+</table>
 
 <details>
 <summary>References</summary>
