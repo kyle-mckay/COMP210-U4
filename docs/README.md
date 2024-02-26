@@ -39,4 +39,4 @@ According to the Canadian Centre for Cyber Security, "Ransomware is the most com
 
 </details><br>
 
-So [How do you identify a ransomware scam](/how-to-ransom.md)?
+So [how do you identify a ransomware scam](/how-to-ransom.md)?
