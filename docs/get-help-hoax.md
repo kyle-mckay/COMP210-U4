@@ -1,6 +1,6 @@
 # Getting Help on Hoaxes
 
-While Virus Hoaxes are generally not a threat, if you receive either a suspicious email or one that talks about a virus is contact your IT Help Desk if in a work enviroment. Alternatively, you should exercise the same amount of caution as you would any other potentially malicious email.
+While Virus Hoaxes are generally not a threat, if you receive either a suspicious email or one that talks about a virus is contact your IT Help Desk if in a work environment. Alternatively, you should exercise the same amount of caution as you would any other potentially malicious email.
 
 - Be careful interacting with any attachments
 - Ensure your Anti-Virus databases are up to date.
